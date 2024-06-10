@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Comparador de Texto Humano vs. IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto, exploramos o mundo fascinante das Inteligências Artificiais (IAs) generativas, com um toque de humor sobre o debate entre o "natural" e o "artificial". Utilizando modelos de linguagem natural, tanto criados por humanos quanto por IAs, buscamos compreender suas semelhanças e diferenças no contexto da geração de textos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Modelos de linguagem natural (treinados com referências literárias clássicas e contemporâneas)
+- Ferramentas de edição de texto (Word, Google Docs, etc.)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para criar o conteúdo, inicialmente desenvolvemos um conjunto de dados com referências literárias, incluindo obras clássicas da literatura mundial, poesias famosas e textos contemporâneos. Em seguida, utilizamos modelos de linguagem natural para gerar textos, comparando as saídas das IAs com textos humanos previamente selecionados. Analisamos e discutimos as similaridades e diferenças entre os textos gerados, destacando nuances e peculiaridades de cada abordagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados do projeto revelaram insights interessantes sobre a capacidade das IAs de criar textos que podem se assemelhar surpreendentemente aos textos humanos em termos de gramática, estilo e contexto. No entanto, também identificamos diferenças significativas, como a falta de originalidade e criatividade nas saídas das IAs em comparação com os textos humanos. Essas descobertas proporcionaram uma reflexão profunda sobre o papel das IAs na criação de conteúdo e na expressão artística.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O desafio de criar algo "natty" com IAs é uma jornada fascinante que nos leva a questionar e redefinir nossa percepção de criatividade e autenticidade. Enquanto as IAs oferecem uma eficiência e precisão impressionantes na geração de texto, ainda há uma dimensão única e irreplicável na expressão humana que transcende as capacidades das máquinas.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
